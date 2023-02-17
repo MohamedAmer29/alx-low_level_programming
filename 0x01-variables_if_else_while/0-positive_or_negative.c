@@ -26,4 +26,3 @@ int main(void)
 	}
 	return (0);
 }
->>>>>>> 2470ded403d693b9a0bb5a0721d5652895014f91
